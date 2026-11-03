@@ -4,7 +4,3 @@
 !/.gitattributes
 !/README.md
 !/NOTICE.md
-!/docs/
-/docs/*
-!/docs/DEMO.md
-!/docs/FAQ.md
